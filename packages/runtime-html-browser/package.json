@@ -42,7 +42,7 @@
     "@aurelia/scheduler-dom": "0.6.0"
   },
   "devDependencies": {
-    "tslib": "^1.11.1",
+    "tslib": "^1.11.2",
     "typescript": "^3.8.3"
   }
 }

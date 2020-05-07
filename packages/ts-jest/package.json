@@ -39,10 +39,10 @@
     "ts-jest": "^25.3.1"
   },
   "devDependencies": {
-    "@jest/transform": "^25.3.0",
-    "@jest/types": "^25.3.0",
+    "@jest/transform": "^26.0.1",
+    "@jest/types": "^26.0.1",
     "@types/node": "^12.12.21",
-    "tslib": "^1.11.1",
+    "tslib": "^1.11.2",
     "typescript": "^3.8.3"
   }
 }
